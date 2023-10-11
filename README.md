@@ -1,1 +1,1 @@
-# SpookyShibaGame_ReacNative
+# SpookyShibaGameApp
